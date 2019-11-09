@@ -1,0 +1,9 @@
+scrum artifacts and scrum teams;
+po
+scrum master
+development team
+
+
+
+Developement team is a team of 3 to 9 members who can develope, test and implement feature or a story.
+ it is self organized, it manages itself and crossfunctional
